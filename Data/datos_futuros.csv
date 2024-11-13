@@ -1,0 +1,13 @@
+Name,Gender,Age,City,Working Professional or Student,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness
+Abhinav,Male,39,Indore,Working Professional,Chemist,,5,,,4,More than 8 hours,Unhealthy,B.Pharm,No,4,3,No
+Rupak,Male,23,Hyderabad,Working Professional,Entrepreneur,,3,,,3,7-8 hours,Unhealthy,B.Tech,Yes,9,5,No
+Chirag,Male,26,Jaipur,Student,,4,,9.56,5,,Less than 5 hours,Unhealthy,B.Ed,No,4,1,Yes
+Ansh,Male,49,Srinagar,Working Professional,Teacher,,1,,,1,5-6 hours,Moderate,B.Ed,Yes,3,4,Yes
+Arya,Male,28,Kalyan,Student,,1,,7.39,1,,More than 8 hours,Unhealthy,BCA,Yes,8,2,No
+Janvi,Female,20,Meerut,Working Professional,,,5,,,2,More than 8 hours,Moderate,Class 12,Yes,0,2,No
+Vani,Female,27,Patna,Working Professional,Financial Analyst,,3,,,1,7-8 hours,Healthy,B.Com,No,9,2,No
+Aariv,Male,42,Patna,Working Professional,Consultant,,4,,,5,More than 8 hours,Unhealthy,BE,No,3,4,No
+Vidhi,Female,48,Hyderabad,Working Professional,Manager,,5,,,5,5-6 hours,Unhealthy,MHM,No,12,2,Yes
+Harsha,Male,57,Kalyan,Working Professional,Teacher,,2,,,2,5-6 hours,Moderate,LLB,Yes,7,5,No
+Reyansh,Male,26,Visakhapatnam,Student,,3,,7.68,4,,More than 8 hours,Unhealthy,MCA,Yes,11,5,No
+Reyansh,Male,19,Indore,Working Professional,,,1,,,3,7-8 hours,Unhealthy,Class 12,Yes,12,4,No
